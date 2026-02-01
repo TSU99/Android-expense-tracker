@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">expensetracker</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="no_expenses_found">No expenses found.</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="total_this_month">Total this month: $%.2f</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="save">Save</string>
+</resources>
